@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(24, 23, 23);
+    color: whitesmoke;
+}
+header{
+    padding: 10px 20px 10px 20px;
+    width: 80%;
+    margin: 0 auto;
+}
+.marginpro{
+    margin-top: 30px;
+}
+.box{
+    float: left;
+}
+.clr{
+    clear: both;
+}
+.profile--picture {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-left: 70px;
+    margin-top: 40px;
+} 
+.profile--picture .profileimage {
+    width: 100%;
+    height: auto;
+} 
+.name{
+    text-align: center;
+    width: 25%;
+    margin: auto;
+    margin-top: 80px;
+}
+.jaymerbasilio{
+    border-bottom: solid white 3px;
+    font-size: 3em;
+}
+.information{
+    text-align: center;
+}
+.content{
+    margin:auto;
+    width: 80%;
+    background-color: rgb(92, 75, 75);
+    border-radius: 3%;
+    padding: 20px;
+}
+.mto{
+    text-align: center;
+    color: gold;
+}
+.experienceborder{
+    width:60%;
+    margin: auto;
+}
+.experience{
+    font-size: 2em;
+    text-align: center;
+}
+.skillsborder{
+    width:60%;
+    margin: auto;
+}
+.skills{
+    font-size: 2em;
+    text-align: center;
+}
